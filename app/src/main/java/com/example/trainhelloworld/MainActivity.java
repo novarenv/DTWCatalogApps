@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     ListView list;
     //Insisialisaasi Array
     private String[] nama_buah = {"Alpukat", "Apel", "Ceri", "Durian", "Jambu", "Manggis", "Strawberry"};
-    private Integer[] id_gambar_buah = {R.drawable.alpukat1, R.drawable.apel1, R.drawable.ceri1,
+    private Integer[] id_gambar_buah = {R.drawable.apel1, R.drawable.apel1, R.drawable.ceri1,
             R.drawable.duriani, R.drawable.jambuairi, R.drawable.manggisi, R.drawable.strawberrya};
 
     @Override
